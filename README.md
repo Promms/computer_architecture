@@ -25,4 +25,4 @@ Each project contains the submitted design source and its supplied testbench. As
 
 ## Multicore computing
 
-`single_cycle_cpu`를 바탕으로 멀티코어 컴퓨팅 수업의 후속 과제를 추가할 예정입니다.
+멀티코어 컴퓨팅 수업의 과제를 추가할 예정입니다.
