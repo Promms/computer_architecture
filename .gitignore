@@ -1,0 +1,21 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.wlf
+*.log
+xsim.dir/
+work/
+
+# Vivado generated files
+*.jou
+*.pb
+*.str
+*.xpr
+.Xil/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
