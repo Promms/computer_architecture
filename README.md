@@ -1,6 +1,6 @@
 # Computer Architecture Coursework
 
-Verilog로 디지털 논리의 기초부터 16-bit single-cycle CPU까지 단계적으로 구현한 컴퓨터구조 수업 프로젝트입니다. 각 폴더의 소스는 실제 제출 ZIP을 기준으로 정리했습니다.
+Verilog로 디지털 논리의 기초부터 16-bit single-cycle CPU까지 단계적으로 구현한 컴퓨터구조 수업 프로젝트입니다.
 
 ## Project progression
 
